@@ -1,8 +1,7 @@
 name: Update Text File
-
 on:
   schedule:
-    - cron: '14 13 * * *'  # Run daily at 1:14 PM UTC
+    - cron: '18 13 * * *'  # Run daily at 1:18 PM UTC
 
 jobs:
   commit:
