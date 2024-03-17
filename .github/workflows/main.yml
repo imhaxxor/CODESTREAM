@@ -20,8 +20,8 @@ jobs:
       - name: Set Git Config (Optional)
         # Uncomment if you don't have global Git config set
         run: |
-          git config --global user.email "your-email@example.com"
-          git config --global user.name "Your Name" || true  # Handle potential errors (optional)
+          git config --global user.email "studentsahil66112@newhorizon.edu.np"
+          git config --global user.name "imhaxxor" || true  # Handle potential errors (optional)
 
       - name: Commit and Push
         run: |
